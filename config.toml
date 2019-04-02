@@ -1,4 +1,4 @@
-baseURL = "/"
+baseURL = "/avocado/"
 languageCode = "en-us"
 title = "Avocado"
 theme = "akvelon_avocado"
