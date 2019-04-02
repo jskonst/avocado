@@ -3,7 +3,13 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/global-preview/</loc>
+    <lastmod>2019-04-02T17:25:02+03:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/</loc>
+    <lastmod>2019-04-02T17:25:02+03:00</lastmod>
     <priority>0</priority>
   </url>
   
