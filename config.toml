@@ -1,0 +1,5 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Avocado"
+theme = "akvelon_avocado"
+publishDir = "docs"
