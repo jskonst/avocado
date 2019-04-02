@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Avocado</title>
-    <link>/</link>
+    <link>/avocado/</link>
     <description>Recent content on Avocado</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 02 Apr 2019 14:55:02 +0300</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/avocado/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Global Preview</title>
-      <link>/global-preview/</link>
+      <link>/avocado/global-preview/</link>
       <pubDate>Tue, 02 Apr 2019 17:25:02 +0300</pubDate>
       
-      <guid>/global-preview/</guid>
+      <guid>/avocado/global-preview/</guid>
       <description>PREVIEW ANY CRM ENTITYIN ANY CRM LISTAvocado.Software’s Global Preview allows CRM users to preview any CRMentity in any list without opening them individually.Be more efficientand save time.Increase efficientcy and save timewith Akvelon Global Preview.TRE THE FREE DEMODownload the free 14-day trial.Why do I need Global Preview forMicrosoft Dynamic 365?</description>
     </item>
     
     <item>
       <title>Crm</title>
-      <link>/crm/</link>
+      <link>/avocado/crm/</link>
       <pubDate>Tue, 02 Apr 2019 16:52:06 +0300</pubDate>
       
-      <guid>/crm/</guid>
+      <guid>/avocado/crm/</guid>
       <description>ADD CALLS TO DYNAMICS CRM FROM YOUR ANDROID DEVICE
 Now you can add calls to Dynamics CRM directly fromyour Android mobile device - no internet connection is required!Never miss anopportunity againAdd calls to Dynamics CRMwhen you&#39;re on the goTRY THE FREE DEMODownload the free App.Why do I need CRM Tracker forMicrosoft Dynamic CRM?Avocado.Software&#39;s Global Tracker allows you to add callsto Dynamics CRM directly from your Android device.</description>
     </item>
